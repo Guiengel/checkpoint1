@@ -24,16 +24,22 @@ Antes de começar, você precisará ter instalado em sua máquina:
    git clone https://github.com/Guiengel/checkpoint1
    
 2. Acesse a pasta do projeto:
+3. ```
    sh
    cd checkpoint1
+   ```
    
 3. Compile o projeto:
+    ```
    sh
    mvn clean install
+    ```
    
 4. Execute a aplicação:
+    ```
    sh
    mvn spring-boot:run
+    ```
    
 
 ## Estrutura do Projeto
